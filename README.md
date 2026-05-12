@@ -271,8 +271,8 @@
                 <div class="family-section">
                     <span class="name-title">Late Fayaz Ulla Khan</span>
                     <small>Jewellery Merchant</small><br>
-                    <strong>P/O:</strong> Ameer Khan, Silk Merchant<br>
-                    <strong>M/O:</strong> Al Haj Mutwalli Ibrahim Sab
+                    <strong>P/O:</strong> Late Ameer Khan, Silk Merchant<br>
+                    <strong>M/O:</strong> Late Al Haj Mutwalli Ibrahim Sab
                 </div>
 
                 <div class="nikah-box">
@@ -286,10 +286,10 @@
                 <div class="venue-section">
                     <strong style="color:var(--deep-gold); font-family:'Cinzel Decorative'; font-size: 0.9rem;">Venue: Firdose Palace</strong>
                     <p style="font-size: 0.8rem; margin: 5px 0;">Upperpet, Sidlaghatta Road, Chintamani.</p>
-                    <p style="color: var(--islamic-green); font-weight:700; margin-top:10px; border-top: 1px solid var(--gold); padding-top: 10px;">Valima Dinner: 8:00 p.m.</p>
+                    <p style="color: var(--islamic- green); font-weight:700; margin-top:10px; border-top: 1px solid var(--gold); padding-top: 10px;">Valima Dinner: 8:00 p.m.</p>
                 </div>
 
-                <a href="https://www.google.com/maps/search/Firdose+Palace+Chintamani" target="_blank" class="btn">OPEN GPS LOCATION</a>
+                <a href="https://www.google.com/maps/search/Firdose+Palace+Chintamani" target="_blank" class="btn">OPEN Google Maps For LOCATION</a>
 
                 <p style="margin: 25px 0 40px 0; font-size: 0.7rem; font-style: italic; color: var(--deep-gold);">
                     — Awaiting your presence and prayers —
