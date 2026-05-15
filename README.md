@@ -276,7 +276,7 @@
                 </div>
 
                 <div class="nikah-box">
-                    <span class="nikah-title">Mehfil -e- Nikah & Valima</span>
+                    <span class="nikah-title">Mehfil -e- Nikah </span>
                     <p><strong>Sunday, 7th June 2026</strong></p>
                     <p>After Namaz-e-Zohar</p>
                     <p style="margin-top: 8px;"><strong>Masjid-e-Sharifiya Umar Farooq</strong></p>
